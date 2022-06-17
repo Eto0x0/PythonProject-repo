@@ -18,7 +18,7 @@ mylist = ['','0','']
 
 shuffle_list(mylist)      # shuffles the broad
 
-print(mylist)
+
 
 
 def player_guess():
